@@ -61,7 +61,7 @@ create or replace task dt_db.raw_sch.copy_emp02_to_raw
                     current_timestamp(),
                     metadata$file_row_number,
                     metadata$filename
-                from @dt_db.source_sch.dynamic_tbl_stage/emp_leave_context/emp_data/as t
+                from @DT_DB.SOURCE_SCH.DYNAMIC_TBL_STAGE/emp_leave_context/as t
             ) file_format = ( format_name ='dt_db.source_sch.csv_format' );
 
 create or replace task dt_db.raw_sch.copy_leave02_to_raw
@@ -83,3 +83,6 @@ alter task dt_db.raw_sch.copy_leave02_to_raw resume;
 alter task dt_db.raw_sch.copy_emp02_to_raw resume;
 
 select * from dt_db.raw_sch.emp_leave_raw;
+select * from dt_db.raw_sch.employee_raw;
+
+-- truncate table dt_db.raw_sch.employee_raw;

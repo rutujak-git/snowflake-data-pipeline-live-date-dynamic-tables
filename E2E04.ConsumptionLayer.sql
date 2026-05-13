@@ -96,7 +96,7 @@ select 'order_raw', count(*) from DT_DBV2.RAW.order_raw
 union all
 select 'customer_clean',count(*) from DT_DBV2.CLEAN.CUSTOMER_CLEAN_DT
 union all
-select 'order_raw', count(*) from DT_DBV2.CLEAN.order_CLEAN_DT
+select 'order_clean', count(*) from DT_DBV2.CLEAN.order_CLEAN_DT
 union all 
 select 'cusotomer_dim',count(*) from DT_DBV2.CONSUMPTION.CUSTOMER_DIM_DT
 union all 
@@ -108,4 +108,9 @@ select 'priority_dim',count(*) from DT_DBV2.CONSUMPTION.PRIORITY_DIM_DT;
 
 ALTER TASK DT_DBV2.RAW.COPY_TO_CUSTOMER_RAW_TASK RESUME;
 ALTER TASK DT_DBV2.RAW.COPY_TO_ORDER_RAW_TASK RESUME;
+
+ALTER TASK DT_DBV2.RAW.COPY_TO_CUSTOMER_RAW_TASK suspend;
+ALTER TASK DT_DBV2.RAW.COPY_TO_ORDER_RAW_TASK suspend;
+
+
 

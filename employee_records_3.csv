@@ -1,0 +1,101 @@
+emp_id,first_name,last_name,date_of_birth,date_of_joining,email_address,department,designation,level,office_location,active
+201,Frank,Curtis,1977-02-28,2021-03-31,frank.curtis_201@desimplified.com,Regulatory Affairs,Biostatistician,L2,Marseille,Yes
+202,Jonathan,Osborne,1977-07-05,2019-11-10,jonathan.osborne_202@desimplified.com,Clinical Operations,Systems Analyst,L3,Nagasaki,Yes
+203,Todd,Daniels,1961-05-11,2023-06-17,todd.daniels_203@desimplified.com,Sales,Senior Auditor,L1,Nagoya,Yes
+204,Brenda,Walker,1958-10-27,2021-02-26,brenda.walker_204@desimplified.com,Finance,Finance Controller,L4,Sapporo,Yes
+205,Jason,Hernandez,1980-10-06,2020-06-23,jason.hernandez_205@desimplified.com,Support,Director,L4,Jaipur,Yes
+206,Lee,Underwood,2001-06-30,2021-09-24,lee.underwood_206@desimplified.com,Marketing,Biostatistician,L2,Kobe,Yes
+207,Megan,Patton,1987-08-05,2021-05-12,megan.patton_207@desimplified.com,Sales,Team Leader,L2,Tokyo,Yes
+208,Linda,Allen,1965-08-29,2023-05-06,linda.allen_208@desimplified.com,Finance,Legal Counsel,L2,Seattle,Yes
+209,David,Clayton,2000-03-10,2023-11-26,david.clayton_209@desimplified.com,HR,Senior Auditor,L1,Kyoto,Yes
+210,Zachary,Summers,1970-08-02,2021-02-14,zachary.summers_210@desimplified.com,Finance,Research Scientist,L3,Toulouse,Yes
+211,Brian,Oliver,1997-12-08,2019-10-24,brian.oliver_211@desimplified.com,Medical Affairs,IT Project Manager,L5,Kolkata,Yes
+212,Evan,Velasquez,1990-12-18,2021-12-05,evan.velasquez_212@desimplified.com,Compliance,IT Project Manager,L3,Boston,Yes
+213,Gary,Boyd,1980-12-17,2023-05-05,gary.boyd_213@desimplified.com,Support,Medical Writer,L3,Edinburgh,Yes
+214,Emily,Campbell,1981-12-17,2020-12-07,emily.campbell_214@desimplified.com,Quality Assurance,Data Analyst,L3,Lille,Yes
+215,Kyle,Santiago,1990-06-16,2022-06-22,kyle.santiago_215@desimplified.com,Finance,Senior Auditor,L4,Kawasaki,Yes
+216,Dustin,King,1973-10-27,2021-02-14,dustin.king_216@desimplified.com,Quality Assurance,Team Leader,L2,Austin,Yes
+217,Christine,Griffith,1978-04-25,2019-07-07,christine.griffith_217@desimplified.com,HR,Data Analyst,L4,Bristol,Yes
+218,Lauren,Kennedy,1958-03-16,2020-05-08,lauren.kennedy_218@desimplified.com,Regulatory Affairs,HR Business Partner,L3,Bristol,Yes
+219,Jeffery,Garcia,1984-07-18,2022-03-12,jeffery.garcia_219@desimplified.com,Legal,Director,L1,Edinburgh,Yes
+220,Kristen,Larson,1990-04-09,2022-08-10,kristen.larson_220@desimplified.com,Medical Affairs,Senior Vice President,L2,Marseille,Yes
+221,Rachel,Watts,1981-10-07,2019-01-30,rachel.watts_221@desimplified.com,IT,Research Scientist,L5,Bangalore,Yes
+222,Gabriel,Patterson,1983-12-08,2022-06-02,gabriel.patterson_222@desimplified.com,HR,Drug Safety Specialist,L3,Sheffield,Yes
+223,Matthew,Webb,1999-01-27,2021-09-09,matthew.webb_223@desimplified.com,Production,Medical Writer,L3,Newcastle,Yes
+224,Laura,Robinson,1979-08-08,2019-08-30,laura.robinson_224@desimplified.com,Regulatory Affairs,Quality Assurance Manager,L3,Kanpur,Yes
+225,Michele,Lee,1970-06-04,2022-11-08,michele.lee_225@desimplified.com,IT,Drug Safety Specialist,L3,New York,Yes
+226,Rachael,Johnson,1966-05-27,2021-12-15,rachael.johnson_226@desimplified.com,Research & Development,IT Project Manager,L5,Delhi,Yes
+227,Alexander,Matthews,1982-10-13,2023-05-24,alexander.matthews_227@desimplified.com,Finance,Vice President,L5,Edinburgh,Yes
+228,Jennifer,Smith,1990-09-16,2022-09-02,jennifer.smith_228@desimplified.com,Production,Director,L4,Bangalore,Yes
+229,Amy,Foster,1991-10-07,2019-04-10,amy.foster_229@desimplified.com,HR,Clinical Research Associate,L2,Bordeaux,Yes
+230,Ashley,Hayes,1963-10-10,2019-07-28,ashley.hayes_230@desimplified.com,Compliance,Regulatory Affairs Specialist,L3,Newcastle,Yes
+231,Jacqueline,Brennan,1976-05-09,2019-07-10,jacqueline.brennan_231@desimplified.com,Production,Legal Counsel,L4,Nagasaki,Yes
+232,Tina,Adkins,1986-12-27,2021-12-03,tina.adkins_232@desimplified.com,Clinical Operations,Quality Assurance Manager,L1,Ahmedabad,Yes
+233,Ashley,Cruz,1969-05-05,2023-08-04,ashley.cruz_233@desimplified.com,Production,Manager,L3,Nice,Yes
+234,Emily,Richardson,1977-08-07,2021-06-08,emily.richardson_234@desimplified.com,Finance,Vice President,L5,Kanpur,Yes
+235,David,Phillips,1987-10-03,2022-09-11,david.phillips_235@desimplified.com,Sales,Senior Vice President,L3,Ahmedabad,Yes
+236,Joshua,Jackson,1968-01-16,2021-05-05,joshua.jackson_236@desimplified.com,Research & Development,Legal Counsel,L2,Nantes,Yes
+237,Scott,Jones,1967-04-07,2020-07-27,scott.jones_237@desimplified.com,Compliance,Clinical Research Associate,L3,Los Angeles,Yes
+238,Julia,Fisher,1978-01-02,2021-02-10,julia.fisher_238@desimplified.com,HR,HR Business Partner,L1,Jaipur,Yes
+239,Dylan,Torres,1968-07-28,2020-10-31,dylan.torres_239@desimplified.com,Support,Director,L3,Grenoble,Yes
+240,Sarah,Swanson,1977-04-08,2019-11-13,sarah.swanson_240@desimplified.com,Sales,Vice President,L4,Nantes,Yes
+241,Samantha,Sherman,1958-10-17,2019-03-17,samantha.sherman_241@desimplified.com,Compliance,Research Scientist,L2,Strasbourg,Yes
+242,Cassandra,Pope,1982-10-13,2019-07-23,cassandra.pope_242@desimplified.com,Medical Affairs,Systems Analyst,L2,Cardiff,Yes
+243,Jacqueline,Gilbert,1982-12-27,2023-01-06,jacqueline.gilbert_243@desimplified.com,Supply Chain Management,Regulatory Affairs Specialist,L2,Chicago,Yes
+244,Brett,Cortez,1966-02-27,2019-12-24,brett.cortez_244@desimplified.com,Regulatory Affairs,Biostatistician,L4,Kawasaki,Yes
+245,Kimberly,Smith,1967-04-14,2020-01-17,kimberly.smith_245@desimplified.com,Clinical Operations,Senior Vice President,L3,Nice,Yes
+246,Erica,Bullock,1988-03-15,2023-10-05,erica.bullock_246@desimplified.com,Sales,Team Leader,L5,Sapporo,Yes
+247,Natalie,Scott,1969-03-20,2023-12-27,natalie.scott_247@desimplified.com,IT,IT Project Manager,L2,Rennes,Yes
+248,David,Ramirez,1981-10-20,2019-05-08,david.ramirez_248@desimplified.com,Research & Development,Director,L3,Chicago,Yes
+249,Lori,Long,1996-09-12,2023-04-19,lori.long_249@desimplified.com,Support,Systems Analyst,L3,Seattle,Yes
+250,John,Bell,1967-04-26,2022-06-24,john.bell_250@desimplified.com,Quality Assurance,Legal Counsel,L4,Nice,Yes
+251,Jennifer,Rodriguez,1967-03-26,2023-04-03,jennifer.rodriguez_251@desimplified.com,Sales,Legal Counsel,L1,Reims,Yes
+252,Erik,Gutierrez,1972-05-30,2019-05-07,erik.gutierrez_252@desimplified.com,Regulatory Affairs,IT Project Manager,L2,Nagasaki,Yes
+253,Jason,Thompson,1980-12-01,2023-05-30,jason.thompson_253@desimplified.com,Clinical Operations,Senior Vice President,L1,Jaipur,Yes
+254,Joshua,Bowen,1975-07-17,2021-02-06,joshua.bowen_254@desimplified.com,Research & Development,Manager,L2,Belfast,Yes
+255,Kenneth,Jones,1963-02-23,2019-10-21,kenneth.jones_255@desimplified.com,Marketing,Biostatistician,L4,Glasgow,Yes
+256,Jesse,Obrien,1997-06-10,2022-06-05,jesse.obrien_256@desimplified.com,Finance,Finance Controller,L5,Toulon,Yes
+257,Timothy,Austin,1994-05-14,2023-01-15,timothy.austin_257@desimplified.com,Clinical Operations,Medical Writer,L3,Oita,Yes
+258,Jeffrey,Hughes,2001-02-19,2019-12-31,jeffrey.hughes_258@desimplified.com,Marketing,Supply Chain Manager,L3,Mumbai,Yes
+259,Anna,Rios,2000-06-08,2021-02-16,anna.rios_259@desimplified.com,Sales,Team Leader,L3,Sapporo,Yes
+260,William,Harris,1968-12-14,2021-10-20,william.harris_260@desimplified.com,HR,Manager,L4,Lyon,Yes
+261,Jessica,English,1979-04-22,2020-07-24,jessica.english_261@desimplified.com,Clinical Operations,Quality Assurance Manager,L5,Yokohama,Yes
+262,Brandon,Snyder,1974-07-12,2022-08-11,brandon.snyder_262@desimplified.com,Legal,IT Project Manager,L3,Nantes,Yes
+263,Michelle,Bryant,1993-09-30,2023-08-27,michelle.bryant_263@desimplified.com,Legal,Finance Controller,L2,Chicago,Yes
+264,Kevin,Ortega,1993-03-19,2020-02-28,kevin.ortega_264@desimplified.com,Finance,Vice President,L2,Boston,Yes
+265,Kaylee,Middleton,1998-02-28,2022-09-05,kaylee.middleton_265@desimplified.com,Support,Team Leader,L4,Paris,Yes
+266,Samantha,Bailey,1958-02-19,2023-07-13,samantha.bailey_266@desimplified.com,Finance,Supply Chain Manager,L4,Hyderabad,Yes
+267,Brenda,Dyer,1986-08-09,2020-01-29,brenda.dyer_267@desimplified.com,Supply Chain Management,Legal Counsel,L4,Sapporo,Yes
+268,Michelle,Wilson,1973-06-02,2018-12-28,michelle.wilson_268@desimplified.com,Medical Affairs,Finance Controller,L1,Yokohama,Yes
+269,Lauren,Wilson,1996-11-25,2019-01-26,lauren.wilson_269@desimplified.com,Supply Chain Management,Vice President,L5,Seattle,Yes
+270,Michael,Parker,1964-10-28,2023-06-11,michael.parker_270@desimplified.com,Support,Legal Counsel,L2,Osaka,Yes
+271,Amanda,Leblanc,1995-02-09,2023-12-26,amanda.leblanc_271@desimplified.com,HR,Research Scientist,L1,Bristol,Yes
+272,Christopher,Stewart,1997-11-12,2019-02-22,christopher.stewart_272@desimplified.com,IT,Director,L2,Birmingham,Yes
+273,John,Lane,1968-06-18,2023-04-16,john.lane_273@desimplified.com,HR,Drug Safety Specialist,L1,Manchester,Yes
+274,Matthew,Hensley,1994-11-11,2023-11-26,matthew.hensley_274@desimplified.com,HR,Systems Analyst,L4,Leicester,Yes
+275,Karen,Anderson,1965-02-22,2023-09-25,karen.anderson_275@desimplified.com,Finance,Regulatory Affairs Specialist,L2,Paris,Yes
+276,Caleb,Jones,1995-05-28,2021-03-18,caleb.jones_276@desimplified.com,Research & Development,Regulatory Affairs Specialist,L1,Belfast,Yes
+277,Jared,Lopez,1979-05-04,2020-04-01,jared.lopez_277@desimplified.com,Production,Clinical Research Associate,L3,Nara,Yes
+278,Bob,Mueller,1976-01-11,2022-08-10,bob.mueller_278@desimplified.com,Supply Chain Management,Clinical Research Associate,L2,Mumbai,Yes
+279,Stephanie,Evans,1976-05-10,2022-03-06,stephanie.evans_279@desimplified.com,HR,IT Project Manager,L5,Hyderabad,Yes
+280,Debbie,Rojas,1968-11-25,2023-10-13,debbie.rojas_280@desimplified.com,Legal,Regulatory Affairs Specialist,L3,Delhi,Yes
+281,Jack,Jones,1997-09-17,2020-09-20,jack.jones_281@desimplified.com,Legal,Systems Analyst,L2,Kobe,Yes
+282,Noah,Jones,1968-07-13,2022-02-04,noah.jones_282@desimplified.com,Quality Assurance,Drug Safety Specialist,L5,Pune,Yes
+283,Susan,Andersen,1973-12-02,2019-05-06,susan.andersen_283@desimplified.com,Sales,Regulatory Affairs Specialist,L4,Surat,Yes
+284,Rebecca,Thomas,1974-08-03,2020-11-17,rebecca.thomas_284@desimplified.com,Marketing,Clinical Research Associate,L3,Nantes,Yes
+285,Emily,Ruiz,1975-10-09,2019-05-07,emily.ruiz_285@desimplified.com,Research & Development,Regulatory Affairs Specialist,L1,Hiroshima,Yes
+286,Tammy,Johnston,1982-05-22,2021-05-25,tammy.johnston_286@desimplified.com,Marketing,Biostatistician,L1,Toulouse,Yes
+287,Isaiah,Melendez,1974-05-09,2021-02-06,isaiah.melendez_287@desimplified.com,Quality Assurance,Legal Counsel,L1,Montpellier,Yes
+288,Craig,Banks,1986-03-02,2023-11-17,craig.banks_288@desimplified.com,HR,Quality Assurance Manager,L2,Lucknow,Yes
+289,Kimberly,Clark,1972-03-04,2020-10-11,kimberly.clark_289@desimplified.com,Sales,Team Leader,L5,Sendai,Yes
+290,Maria,Walker,1961-11-20,2019-10-30,maria.walker_290@desimplified.com,IT,Systems Analyst,L2,Bhopal,Yes
+291,Amanda,Smith,1959-12-28,2020-02-12,amanda.smith_291@desimplified.com,Clinical Operations,Legal Counsel,L2,Hyderabad,Yes
+292,Courtney,Edwards,1965-05-10,2023-04-06,courtney.edwards_292@desimplified.com,Research & Development,Biostatistician,L5,Toulouse,Yes
+293,Natalie,Harris,1979-07-09,2020-03-30,natalie.harris_293@desimplified.com,Clinical Operations,Vice President,L4,Seattle,Yes
+294,Amanda,West,1958-05-26,2019-02-05,amanda.west_294@desimplified.com,Marketing,Quality Assurance Manager,L3,Fukuoka,Yes
+295,Jacob,Barnes,1969-05-30,2022-02-14,jacob.barnes_295@desimplified.com,Compliance,Medical Writer,L3,Strasbourg,Yes
+296,Lindsay,Bennett,1972-02-18,2022-03-20,lindsay.bennett_296@desimplified.com,Compliance,Clinical Research Associate,L5,Toulon,Yes
+297,Dawn,Hicks,1984-03-17,2022-06-17,dawn.hicks_297@desimplified.com,Compliance,Legal Counsel,L5,Sendai,Yes
+298,William,Villa,2000-03-23,2022-03-18,william.villa_298@desimplified.com,Research & Development,Drug Safety Specialist,L1,Mumbai,Yes
+299,Steven,Kane,1999-12-29,2019-01-23,steven.kane_299@desimplified.com,Medical Affairs,IT Project Manager,L4,Tokyo,Yes
+300,Robert,Ritter,1961-02-09,2021-05-22,robert.ritter_300@desimplified.com,Medical Affairs,Systems Analyst,L1,Toulouse,Yes
